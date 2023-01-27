@@ -8,3 +8,6 @@ La page Panier qui affiche les produits qui ont été ajoutés ainsi que deux op
   - La deuxième permet d'avoir un récapitulatif de la commande avec le nom de l'article et le prix.
 
 La page Payer permet de procéder au paiement des articles à l'aide de Stripe (API test) qui n'est pas encore fonctionnelle.
+
+
+![video-pres1](https://user-images.githubusercontent.com/98184738/215088989-0219d873-f0e1-4f05-9692-abdd3f65b5b5.gif)
