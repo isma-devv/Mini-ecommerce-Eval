@@ -10,4 +10,5 @@ La page Panier qui affiche les produits qui ont été ajoutés ainsi que deux op
 La page Payer permet de procéder au paiement des articles à l'aide de Stripe (API test) qui n'est pas encore fonctionnelle.
 
 
-![video-pres1](https://user-images.githubusercontent.com/98184738/215088989-0219d873-f0e1-4f05-9692-abdd3f65b5b5.gif)
+https://user-images.githubusercontent.com/98184738/215089539-6675a7a9-4816-4020-be39-17a092e4dbb0.mp4
+
