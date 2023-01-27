@@ -49,8 +49,7 @@ export default function CheckoutForm() {
         e.preventDefault();
 
         if (!stripe || !elements) {
-            // Stripe.js n'a pas encore été chargé.
-            // Assurez-vous de désactiver le formulaire jusqu'à ce que Stripe.js soit chargé.
+
             return;
         }
 
@@ -60,7 +59,6 @@ export default function CheckoutForm() {
             elements,
             confirmParams: {
 
-                // Assurez-vous de le remplacer par votre page de fin de paiement
 
                 return_url: "http://localhost:3000",
             },
