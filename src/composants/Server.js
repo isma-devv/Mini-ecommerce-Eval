@@ -8,8 +8,7 @@ app.use(express.static("public"));
 app.use(express.json());
 
 const calculateOrderAmount = (items) => {
-    // Remplacez cette constante par un calcul du montant de la commande
-    // Calculez le total de la commande sur le serveur pour éviter les clients de manipuler directement le montant sur le client
+
 
     return 1400;
 };
