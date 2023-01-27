@@ -1,4 +1,6 @@
-Le projet "Mini-Site-Ecommerce-Eval" est un projet React qui comprend 4 pages (https://ismael-projet-h3hitema-ecom.netlify.app/) :
+MINI-SITE-ECOMMERCE-EVAL1 | UPLOAD SUR NETLIFY (https://ismael-projet-h3hitema-ecom.netlify.app/)
+
+Le projet "Mini-Site-Ecommerce-Eval" est un projet React qui comprend 4 pages :
 
 La page d'accueil qui affiche une bannière ainsi qu'un menu "burger" déroulant permettant d'accéder aux autres pages.
 
